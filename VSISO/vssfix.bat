@@ -1,1 +1,1 @@
-vs_professional.exe --layout C:\VSProLayout --fix --lang en-US --add   Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.NativeGame  --includeRecommended --includeOptional
+vs_professional.exe --layout C:\VSProLayout3 --fix 
