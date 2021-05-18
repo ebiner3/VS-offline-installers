@@ -1,0 +1,1 @@
+C:\VSProLayout3\vs_professional.exe --noweb  --add   Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.NativeGame  --add Microsoft.VisualStudio.Workload.Python  --add Microsoft.VisualStudio.Workload.Data  --add Microsoft.VisualStudio.Workload.ManagedDesktop  --includeRecommended --includeOptional
