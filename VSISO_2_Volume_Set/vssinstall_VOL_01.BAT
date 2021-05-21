@@ -1,0 +1,3 @@
+REM YOU MIGHT NEED TO UNCHECK COCOS2D MANUALLY
+REM AS OF MAY 21ST 2021 IT DID NOT DOWNLOAD PROPERLY
+C:\VsProLayoutVol01\vs_professional.exe --noweb  --add   Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.NativeGame  --add Microsoft.VisualStudio.Workload.Python  --add Microsoft.VisualStudio.Workload.Data  --add Microsoft.VisualStudio.Workload.ManagedDesktop  --includeRecommended --includeOptional
